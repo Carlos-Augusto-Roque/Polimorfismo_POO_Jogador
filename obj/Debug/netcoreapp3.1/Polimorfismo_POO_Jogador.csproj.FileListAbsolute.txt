@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.exe
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\bin\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.dll
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\C#\Polimorfismo_POO_Jogador\obj\Debug\netcoreapp3.1\Polimorfismo_POO_Jogador.genruntimeconfig.cache
