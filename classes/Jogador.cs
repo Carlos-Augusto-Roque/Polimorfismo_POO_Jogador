@@ -28,12 +28,12 @@ namespace Polimorfismo_POO_Jogador.classes
                 Console.WriteLine($"O jogador se poderá se aposentar daqui {tempoAposentadoria} anos !");              
                 return tempoAposentadoria;
         
-                case "Meio-Campo":
+                case "Meio":
                 tempoAposentadoria = 38 - IdadeJogador(anoNascimento, anoAtual);
                 Console.WriteLine($"O jogador se poderá se aposentar daqui {tempoAposentadoria} anos !");
                 return tempoAposentadoria;
         
-                case "Atacante":
+                case "Ataque":
                 tempoAposentadoria = 35 - IdadeJogador(anoNascimento, anoAtual);
                 Console.WriteLine($"O jogador se poderá se aposentar daqui {tempoAposentadoria} anos !");
                 return tempoAposentadoria;
